@@ -1,0 +1,26 @@
+#Aseria, #RAEsperia{
+    font-size: 30px;
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-radius: 30px;
+}
+#Aseria{
+    background-color: rgb(53, 53, 53);
+    color: rgb(211, 0, 0);
+}
+#Aseria:hover{
+    background-color: rgb(27, 27, 27);
+    color: rgb(119, 0, 0);
+}
+#RAEsperia{
+    background-color: rgb(200, 0, 200);
+    color: rgb(112, 198, 226);
+}
+#RAEsperia:hover{
+    background-color: rgb(141, 0, 141);
+    color: rgb(87, 154, 176);
+}
+#Conrainer{
+    display: grid;
+}
